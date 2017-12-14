@@ -1,4 +1,4 @@
-Package: maRginal
+Package: marginal
 Type: Package
 Title: Marginal Effects for Arbitrary Predictive Models
 Version: 0.1.0
