@@ -6,3 +6,19 @@ Open issues include:
 * Handling categorical variables more elegantly
 * Finding the best default behaviors for calculations
 * And more!
+
+Some basic usage
+```
+devtools::install_github("tommyjones/marginal")
+
+library(marginal)
+library(randomForest)
+
+data(mtcars)
+
+fit <- randomForest(mpg ~., data = mtcars)
+
+mfx <- CalcMfx(object = fit, X = mtcars)
+
+plot(mfx)
+```
