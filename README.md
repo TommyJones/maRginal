@@ -1,4 +1,5 @@
-# marginal <img src = "figures/featured.jpg" align = "right" alt = "marginal logo"
+
+# marginal <img src = "figures/featured.jpg" align="right" alt="marginal logo" />
 
 marginal will be an R package for calculating marginal effects for arbitrary prediction models. As of now, code and research are in early stages. 
 
