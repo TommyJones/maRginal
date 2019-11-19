@@ -1,7 +1,7 @@
 
 # marginal <img src="figures/marginal_v2.png" align="right" alt="logo" width="200"/>
 
-marginal will be an R package for calculating marginal effects for arbitrary prediction models. As of now, code and research are in early stages. 
+marginal will be an R package for calculating marginal effects for arbitrary prediction models. As of now, code and research are in early stages. In other words, *BUYER BEWARE*
 
 Open issues include:
 
